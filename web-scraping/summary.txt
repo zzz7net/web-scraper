@@ -1,0 +1,3062 @@
+Activities - air
+Activities - architecture
+Activities - avg_pace
+Activities - avg_time
+Activities - azm
+Activities - backpack
+Activities - bath_outdoor
+Activities - bath_private
+Activities - bath_public_large
+Activities - bia
+Activities - biotech
+Activities - cake
+Activities - cake_add
+Activities - campaign
+Activities - camping
+Activities - check_in_out
+Activities - confirmation_number
+Activities - construction
+Activities - distance
+Activities - downhill_skiing
+Activities - ecg_heart
+Activities - eda
+Activities - elevation
+Activities - engineering
+Activities - exercise
+Activities - family_link
+Activities - fertile
+Activities - floor
+Activities - glass_cup
+Activities - health_metrics
+Activities - hiking
+Activities - how_to_vote
+Activities - hr_resting
+Activities - ice_skating
+Activities - ifl
+Activities - interactive_space
+Activities - kayaking
+Activities - kitesurfing
+Activities - laps
+Activities - menstrual_health
+Activities - mindfulness
+Activities - monitor_weight_gain
+Activities - monitor_weight_loss
+Activities - nights_stay
+Activities - no_backpack
+Activities - nordic_walking
+Activities - onsen
+Activities - pace
+Activities - paragliding
+Activities - person_celebrate
+Activities - person_play
+Activities - personal_injury
+Activities - phishing
+Activities - physical_therapy
+Activities - piano
+Activities - piano_off
+Activities - play_shapes
+Activities - podiatry
+Activities - readiness_score
+Activities - real_estate_agent
+Activities - relax
+Activities - rewarded_ads
+Activities - roller_skating
+Activities - rowing
+Activities - sauna
+Activities - school
+Activities - science
+Activities - science_off
+Activities - scoreboard
+Activities - scuba_diving
+Activities - self_improvement
+Activities - skateboarding
+Activities - sledding
+Activities - sleep_score
+Activities - snowboarding
+Activities - snowshoeing
+Activities - spo2
+Activities - sports
+Activities - sports_baseball
+Activities - sports_basketball
+Activities - sports_cricket
+Activities - sports_esports
+Activities - sports_football
+Activities - sports_golf
+Activities - sports_gymnastics
+Activities - sports_handball
+Activities - sports_hockey
+Activities - sports_kabaddi
+Activities - sports_martial_arts
+Activities - sports_mma
+Activities - sports_motorsports
+Activities - sports_rugby
+Activities - sports_score
+Activities - sports_soccer
+Activities - sports_tennis
+Activities - sports_volleyball
+Activities - sprint
+Activities - steps
+Activities - storm
+Activities - stress_management
+Activities - surfing
+Activities - switch_account
+Activities - swords
+Activities - theaters
+Activities - toys
+Activities - toys_fan
+Activities - trophy
+Activities - volunteer_activism
+Activities - water
+Activities - water_full
+Activities - water_loss
+Activities - water_medium
+Activities - waves
+Android - 1x_mobiledata
+Android - 1x_mobiledata_badge
+Android - 3g_mobiledata
+Android - 3g_mobiledata_badge
+Android - 4g_mobiledata
+Android - 4g_mobiledata_badge
+Android - 4g_plus_mobiledata
+Android - 5g
+Android - 5g_mobiledata_badge
+Android - adb
+Android - airplanemode_active
+Android - airplanemode_inactive
+Android - android
+Android - apk_document
+Android - apk_install
+Android - backlight_high
+Android - backlight_low
+Android - badge_critical_battery
+Android - battery_0_bar
+Android - battery_1_bar
+Android - battery_2_bar
+Android - battery_3_bar
+Android - battery_4_bar
+Android - battery_5_bar
+Android - battery_6_bar
+Android - battery_alert
+Android - battery_change
+Android - battery_charging_20
+Android - battery_charging_30
+Android - battery_charging_50
+Android - battery_charging_60
+Android - battery_charging_80
+Android - battery_charging_90
+Android - battery_charging_full
+Android - battery_error
+Android - battery_full
+Android - battery_full_alt
+Android - battery_low
+Android - battery_plus
+Android - battery_saver
+Android - battery_share
+Android - battery_status_good
+Android - battery_unknown
+Android - battery_very_low
+Android - bluetooth
+Android - bluetooth_connected
+Android - bluetooth_disabled
+Android - bluetooth_drive
+Android - bluetooth_searching
+Android - brightness_alert
+Android - brightness_auto
+Android - brightness_empty
+Android - brightness_high
+Android - brightness_low
+Android - brightness_medium
+Android - cable
+Android - cameraswitch
+Android - charger
+Android - dark_mode
+Android - data_saver_on
+Android - data_usage
+Android - devices_fold
+Android - display_external_input
+Android - do_not_disturb_on_total_silence
+Android - dock_to_bottom
+Android - dock_to_left
+Android - dock_to_right
+Android - dual_screen
+Android - dvr
+Android - e_mobiledata
+Android - e_mobiledata_badge
+Android - edgesensor_high
+Android - edgesensor_low
+Android - ev_mobiledata_badge
+Android - flashlight_off
+Android - flashlight_on
+Android - g_mobiledata
+Android - g_mobiledata_badge
+Android - gpp_bad
+Android - gpp_maybe
+Android - graphic_eq
+Android - grid_3x3
+Android - grid_3x3_off
+Android - grid_4x4
+Android - grid_goldenratio
+Android - h_mobiledata
+Android - h_mobiledata_badge
+Android - h_plus_mobiledata
+Android - h_plus_mobiledata_badge
+Android - keyboard_capslock_badge
+Android - keyboard_external_input
+Android - keyboard_full
+Android - keyboard_keys
+Android - keyboard_off
+Android - keyboard_onscreen
+Android - keyboard_previous_language
+Android - light_mode
+Android - lte_mobiledata
+Android - lte_mobiledata_badge
+Android - lte_plus_mobiledata
+Android - lte_plus_mobiledata_badge
+Android - magnify_docked
+Android - magnify_fullscreen
+Android - media_bluetooth_off
+Android - media_bluetooth_on
+Android - mobiledata_off
+Android - mode_standby
+Android - nearby
+Android - nearby_error
+Android - nearby_off
+Android - network_cell
+Android - network_check
+Android - network_locked
+Android - network_ping
+Android - network_wifi
+Android - network_wifi_1_bar
+Android - network_wifi_1_bar_locked
+Android - network_wifi_2_bar
+Android - network_wifi_2_bar_locked
+Android - network_wifi_3_bar
+Android - network_wifi_3_bar_locked
+Android - nfc
+Android - nightlight
+Android - noise_aware
+Android - noise_control_off
+Android - noise_control_on
+Android - overview_key
+Android - password
+Android - pattern
+Android - perm_data_setting
+Android - perm_scan_wifi
+Android - pin
+Android - portable_wifi_off
+Android - quick_phrases
+Android - r_mobiledata
+Android - radar
+Android - rss_feed
+Android - screen_record
+Android - screen_rotation_alt
+Android - screen_rotation_up
+Android - screenshot_frame
+Android - screenshot_keyboard
+Android - screenshot_region
+Android - settings_system_daydream
+Android - signal_cellular_0_bar
+Android - signal_cellular_1_bar
+Android - signal_cellular_2_bar
+Android - signal_cellular_3_bar
+Android - signal_cellular_4_bar
+Android - signal_cellular_alt
+Android - signal_cellular_alt_1_bar
+Android - signal_cellular_alt_2_bar
+Android - signal_cellular_connected_no_internet_0_bar
+Android - signal_cellular_connected_no_internet_4_bar
+Android - signal_cellular_nodata
+Android - signal_cellular_null
+Android - signal_cellular_off
+Android - signal_cellular_pause
+Android - signal_disconnected
+Android - signal_wifi_0_bar
+Android - signal_wifi_4_bar
+Android - signal_wifi_bad
+Android - signal_wifi_off
+Android - signal_wifi_statusbar_not_connected
+Android - signal_wifi_statusbar_null
+Android - sim_card_download
+Android - splitscreen
+Android - splitscreen_bottom
+Android - splitscreen_left
+Android - splitscreen_right
+Android - splitscreen_top
+Android - storage
+Android - stylus
+Android - stylus_note
+Android - thermostat
+Android - timer_10_select
+Android - timer_3_select
+Android - usb
+Android - usb_off
+Android - wallpaper
+Android - wallpaper_slideshow
+Android - widgets
+Android - wifi
+Android - wifi_1_bar
+Android - wifi_2_bar
+Android - wifi_calling_1
+Android - wifi_calling_2
+Android - wifi_calling_3
+Android - wifi_find
+Android - wifi_home
+Android - wifi_lock
+Android - wifi_notification
+Android - wifi_off
+Android - wifi_tethering
+Android - wifi_tethering_error
+Android - wifi_tethering_off
+Audio & Video - 10k
+Audio & Video - 1k
+Audio & Video - 1k_plus
+Audio & Video - 2d
+Audio & Video - 2k
+Audio & Video - 2k_plus
+Audio & Video - 30fps
+Audio & Video - 3k
+Audio & Video - 3k_plus
+Audio & Video - 4k
+Audio & Video - 4k_plus
+Audio & Video - 5k
+Audio & Video - 5k_plus
+Audio & Video - 60fps
+Audio & Video - 6k
+Audio & Video - 6k_plus
+Audio & Video - 7k
+Audio & Video - 7k_plus
+Audio & Video - 8k
+Audio & Video - 8k_plus
+Audio & Video - 9k
+Audio & Video - 9k_plus
+Audio & Video - add_to_queue
+Audio & Video - airplay
+Audio & Video - album
+Audio & Video - ar_on_you
+Audio & Video - art_track
+Audio & Video - audio_description
+Audio & Video - audio_file
+Audio & Video - autopause
+Audio & Video - autoplay
+Audio & Video - autostop
+Audio & Video - av_timer
+Audio & Video - brand_awareness
+Audio & Video - branding_watermark
+Audio & Video - broadcast_on_home
+Audio & Video - broadcast_on_personal
+Audio & Video - call_to_action
+Audio & Video - cinematic_blur
+Audio & Video - closed_caption
+Audio & Video - closed_caption_disabled
+Audio & Video - control_camera
+Audio & Video - digital_out_of_home
+Audio & Video - discover_tune
+Audio & Video - equalizer
+Audio & Video - explicit
+Audio & Video - fast_forward
+Audio & Video - fast_rewind
+Audio & Video - featured_play_list
+Audio & Video - featured_video
+Audio & Video - fiber_dvr
+Audio & Video - fiber_manual_record
+Audio & Video - fiber_new
+Audio & Video - fiber_pin
+Audio & Video - fiber_smart_record
+Audio & Video - forward_10
+Audio & Video - forward_30
+Audio & Video - forward_5
+Audio & Video - forward_circle
+Audio & Video - forward_media
+Audio & Video - frame_person
+Audio & Video - frame_person_off
+Audio & Video - full_hd
+Audio & Video - genres
+Audio & Video - hangout_video
+Audio & Video - hangout_video_off
+Audio & Video - hd
+Audio & Video - hearing
+Audio & Video - hearing_disabled
+Audio & Video - high_quality
+Audio & Video - instant_mix
+Audio & Video - interpreter_mode
+Audio & Video - library_add_check
+Audio & Video - library_books
+Audio & Video - library_music
+Audio & Video - lyrics
+Audio & Video - media_link
+Audio & Video - mic
+Audio & Video - mic_double
+Audio & Video - mic_off
+Audio & Video - missed_video_call
+Audio & Video - movie
+Audio & Video - movie_edit
+Audio & Video - movie_info
+Audio & Video - music_note
+Audio & Video - music_off
+Audio & Video - music_video
+Audio & Video - no_sound
+Audio & Video - not_started
+Audio & Video - pause
+Audio & Video - pause_circle
+Audio & Video - play_arrow
+Audio & Video - play_circle
+Audio & Video - play_disabled
+Audio & Video - play_lesson
+Audio & Video - play_pause
+Audio & Video - playlist_add
+Audio & Video - playlist_add_check
+Audio & Video - playlist_add_check_circle
+Audio & Video - playlist_add_circle
+Audio & Video - playlist_play
+Audio & Video - playlist_remove
+Audio & Video - podcasts
+Audio & Video - privacy
+Audio & Video - queue_music
+Audio & Video - queue_play_next
+Audio & Video - radio
+Audio & Video - recent_actors
+Audio & Video - remove_from_queue
+Audio & Video - repeat
+Audio & Video - repeat_on
+Audio & Video - repeat_one
+Audio & Video - repeat_one_on
+Audio & Video - replay
+Audio & Video - replay_10
+Audio & Video - replay_30
+Audio & Video - replay_5
+Audio & Video - resume
+Audio & Video - sd
+Audio & Video - select_to_speak
+Audio & Video - settings_voice
+Audio & Video - shuffle
+Audio & Video - shuffle_on
+Audio & Video - skip_next
+Audio & Video - skip_previous
+Audio & Video - slow_motion_video
+Audio & Video - sound_detection_dog_barking
+Audio & Video - sound_detection_glass_break
+Audio & Video - sound_detection_loud_sound
+Audio & Video - sound_sampler
+Audio & Video - spatial_audio
+Audio & Video - spatial_audio_off
+Audio & Video - spatial_tracking
+Audio & Video - speech_to_text
+Audio & Video - speed
+Audio & Video - stop
+Audio & Video - stop_circle
+Audio & Video - stream
+Audio & Video - subscriptions
+Audio & Video - subtitles
+Audio & Video - surround_sound
+Audio & Video - text_to_speech
+Audio & Video - video_call
+Audio & Video - video_camera_back
+Audio & Video - video_camera_front
+Audio & Video - video_camera_front_off
+Audio & Video - video_label
+Audio & Video - video_library
+Audio & Video - video_search
+Audio & Video - video_settings
+Audio & Video - video_stable
+Audio & Video - videocam
+Audio & Video - videocam_off
+Audio & Video - view_in_ar
+Audio & Video - view_in_ar_off
+Audio & Video - voice_selection
+Audio & Video - volume_down
+Audio & Video - volume_down_alt
+Audio & Video - volume_mute
+Audio & Video - volume_off
+Audio & Video - volume_up
+Brand - nest_gale_wifi
+Business & Payments - account_balance
+Business & Payments - account_balance_wallet
+Business & Payments - account_tree
+Business & Payments - add_business
+Business & Payments - add_card
+Business & Payments - add_chart
+Business & Payments - add_shopping_cart
+Business & Payments - analytics
+Business & Payments - area_chart
+Business & Payments - atm
+Business & Payments - atr
+Business & Payments - attach_money
+Business & Payments - bar_chart
+Business & Payments - bar_chart_4_bars
+Business & Payments - barcode
+Business & Payments - barcode_reader
+Business & Payments - barcode_scanner
+Business & Payments - bid_landscape
+Business & Payments - bid_landscape_disabled
+Business & Payments - box
+Business & Payments - box_add
+Business & Payments - box_edit
+Business & Payments - bubble_chart
+Business & Payments - calculate
+Business & Payments - candlestick_chart
+Business & Payments - card_membership
+Business & Payments - card_travel
+Business & Payments - cases
+Business & Payments - chart_data
+Business & Payments - contactless
+Business & Payments - contactless_off
+Business & Payments - conversion_path
+Business & Payments - conversion_path_off
+Business & Payments - conveyor_belt
+Business & Payments - copyright
+Business & Payments - corporate_fare
+Business & Payments - credit_card
+Business & Payments - credit_card_off
+Business & Payments - credit_score
+Business & Payments - currency_bitcoin
+Business & Payments - currency_exchange
+Business & Payments - currency_franc
+Business & Payments - currency_lira
+Business & Payments - currency_pound
+Business & Payments - currency_ruble
+Business & Payments - currency_rupee
+Business & Payments - currency_yen
+Business & Payments - currency_yuan
+Business & Payments - data_exploration
+Business & Payments - data_table
+Business & Payments - database
+Business & Payments - domain
+Business & Payments - domain_add
+Business & Payments - domain_disabled
+Business & Payments - donut_large
+Business & Payments - donut_small
+Business & Payments - euro
+Business & Payments - euro_symbol
+Business & Payments - family_history
+Business & Payments - finance
+Business & Payments - flowsheet
+Business & Payments - forklift
+Business & Payments - front_loader
+Business & Payments - full_stacked_bar_chart
+Business & Payments - grouped_bar_chart
+Business & Payments - inactive_order
+Business & Payments - insert_chart
+Business & Payments - leaderboard
+Business & Payments - legend_toggle
+Business & Payments - loyalty
+Business & Payments - mediation
+Business & Payments - meeting_room
+Business & Payments - mitre
+Business & Payments - monetization_on
+Business & Payments - money
+Business & Payments - money_off
+Business & Payments - monitoring
+Business & Payments - multiline_chart
+Business & Payments - network_node
+Business & Payments - next_week
+Business & Payments - no_meeting_room
+Business & Payments - order_approve
+Business & Payments - order_play
+Business & Payments - paid
+Business & Payments - pallet
+Business & Payments - payments
+Business & Payments - pie_chart
+Business & Payments - podium
+Business & Payments - precision_manufacturing
+Business & Payments - price_change
+Business & Payments - price_check
+Business & Payments - production_quantity_limits
+Business & Payments - qr_code
+Business & Payments - qr_code_2
+Business & Payments - qr_code_2_add
+Business & Payments - qr_code_scanner
+Business & Payments - query_stats
+Business & Payments - receipt
+Business & Payments - receipt_long
+Business & Payments - redeem
+Business & Payments - remove_shopping_cart
+Business & Payments - room_preferences
+Business & Payments - savings
+Business & Payments - scatter_plot
+Business & Payments - schema
+Business & Payments - sell
+Business & Payments - send_money
+Business & Payments - shop
+Business & Payments - shop_two
+Business & Payments - shopping_bag
+Business & Payments - shopping_basket
+Business & Payments - shopping_cart
+Business & Payments - show_chart
+Business & Payments - ssid_chart
+Business & Payments - stacked_bar_chart
+Business & Payments - stacked_line_chart
+Business & Payments - store
+Business & Payments - storefront
+Business & Payments - strikethrough_s
+Business & Payments - tenancy
+Business & Payments - timeline
+Business & Payments - toll
+Business & Payments - track_changes
+Business & Payments - trending_down
+Business & Payments - trending_flat
+Business & Payments - trending_up
+Business & Payments - trolley
+Business & Payments - troubleshoot
+Business & Payments - universal_currency_alt
+Business & Payments - wallet
+Business & Payments - waterfall_chart
+Business & Payments - work
+Business & Payments - work_alert
+Business & Payments - work_history
+Business & Payments - work_update
+Common actions - 3d_rotation
+Common actions - accessibility
+Common actions - accessibility_new
+Common actions - accessible
+Common actions - accessible_forward
+Common actions - account_box
+Common actions - account_circle
+Common actions - account_circle_off
+Common actions - ad
+Common actions - ad_group
+Common actions - ad_group_off
+Common actions - ad_off
+Common actions - ad_units
+Common actions - add_ad
+Common actions - add_alert
+Common actions - ads_click
+Common actions - alarm
+Common actions - alarm_add
+Common actions - alarm_off
+Common actions - alarm_on
+Common actions - alarm_smart_wake
+Common actions - all_inclusive
+Common actions - all_out
+Common actions - anchor
+Common actions - api
+Common actions - app_shortcut
+Common actions - approval
+Common actions - approval_delegation
+Common actions - arrow_selector_tool
+Common actions - auto_delete
+Common actions - award_star
+Common actions - background_replace
+Common actions - backup
+Common actions - backup_table
+Common actions - batch_prediction
+Common actions - bookmark
+Common actions - bookmark_add
+Common actions - bookmark_added
+Common actions - bookmark_manager
+Common actions - bookmark_remove
+Common actions - bookmarks
+Common actions - browse
+Common actions - bug_report
+Common actions - build
+Common actions - build_circle
+Common actions - calendar_clock
+Common actions - calendar_month
+Common actions - calendar_today
+Common actions - category
+Common actions - celebration
+Common actions - change_history
+Common actions - chrome_reader_mode
+Common actions - circle_notifications
+Common actions - circles
+Common actions - circles_ext
+Common actions - code
+Common actions - code_blocks
+Common actions - code_off
+Common actions - collections_bookmark
+Common actions - commit
+Common actions - component_exchange
+Common actions - dangerous
+Common actions - data_loss_prevention
+Common actions - date_range
+Common actions - developer_guide
+Common actions - domain_verification
+Common actions - domain_verification_off
+Common actions - draft_orders
+Common actions - dynamic_feed
+Common actions - edit_calendar
+Common actions - edit_notifications
+Common actions - edit_square
+Common actions - error
+Common actions - event
+Common actions - event_available
+Common actions - event_busy
+Common actions - event_note
+Common actions - event_repeat
+Common actions - event_upcoming
+Common actions - extension
+Common actions - feature_search
+Common actions - feedback
+Common actions - find_replace
+Common actions - fingerprint
+Common actions - flutter
+Common actions - flutter_dash
+Common actions - free_cancellation
+Common actions - gesture
+Common actions - gesture_select
+Common actions - hand_gesture
+Common actions - help
+Common actions - help_center
+Common actions - help_clinic
+Common actions - history
+Common actions - history_toggle_off
+Common actions - home_app_logo
+Common actions - hotel_class
+Common actions - hourglass
+Common actions - hourglass_disabled
+Common actions - hourglass_empty
+Common actions - how_to_reg
+Common actions - http
+Common actions - indeterminate_question_box
+Common actions - info
+Common actions - info_i
+Common actions - input
+Common actions - interests
+Common actions - label
+Common actions - label_important
+Common actions - label_off
+Common actions - language
+Common actions - lightbulb
+Common actions - lightbulb_circle
+Common actions - lists
+Common actions - lock
+Common actions - lock_clock
+Common actions - lock_open
+Common actions - lock_open_right
+Common actions - lock_person
+Common actions - lock_reset
+Common actions - logo_dev
+Common actions - manage_accounts
+Common actions - manage_history
+Common actions - measuring_tape
+Common actions - model_training
+Common actions - more
+Common actions - more_time
+Common actions - new_label
+Common actions - new_releases
+Common actions - no_accounts
+Common actions - notification_add
+Common actions - notification_important
+Common actions - offline_bolt
+Common actions - offline_pin
+Common actions - on_device_training
+Common actions - online_prediction
+Common actions - open_in_browser
+Common actions - outbound
+Common actions - pageview
+Common actions - pan_tool
+Common actions - pan_tool_alt
+Common actions - pan_zoom
+Common actions - pending
+Common actions - perm_contact_calendar
+Common actions - person_add_disabled
+Common actions - pin_end
+Common actions - pin_invoke
+Common actions - pinch_zoom_in
+Common actions - pinch_zoom_out
+Common actions - polymer
+Common actions - preview
+Common actions - preview_off
+Common actions - priority
+Common actions - priority_high
+Common actions - problem
+Common actions - published_with_changes
+Common actions - push_pin
+Common actions - question_mark
+Common actions - rate_review
+Common actions - record_voice_over
+Common actions - release_alert
+Common actions - reminder
+Common actions - rounded_corner
+Common actions - rsvp
+Common actions - rule
+Common actions - running_with_errors
+Common actions - save_as
+Common actions - schedule
+Common actions - scrollable_header
+Common actions - select_window
+Common actions - select_window_off
+Common actions - settings_account_box
+Common actions - settings_overscan
+Common actions - settings_power
+Common actions - shadow
+Common actions - shadow_add
+Common actions - shadow_minus
+Common actions - shift
+Common actions - shift_lock
+Common actions - snooze
+Common actions - square_foot
+Common actions - stars
+Common actions - supervised_user_circle
+Common actions - supervised_user_circle_off
+Common actions - supervisor_account
+Common actions - support
+Common actions - swipe
+Common actions - tab
+Common actions - tab_unselected
+Common actions - target
+Common actions - task_alt
+Common actions - time_auto
+Common actions - timer_10_alt_1
+Common actions - timer_3_alt_1
+Common actions - today
+Common actions - touch_app
+Common actions - translate
+Common actions - unpublished
+Common actions - update
+Common actions - update_disabled
+Common actions - upgrade
+Common actions - upload
+Common actions - upload_file
+Common actions - verified
+Common actions - visibility
+Common actions - visibility_lock
+Common actions - visibility_off
+Common actions - voice_over_off
+Common actions - warning
+Common actions - warning_off
+Common actions - watch_screentime
+Common actions - water_lock
+Common actions - web
+Common actions - web_asset
+Common actions - web_asset_off
+Common actions - webhook
+Common actions - wifi_protected_setup
+Common actions - wysiwyg
+Common actions - youtube_activity
+Communication - 3p
+Communication - add_call
+Communication - add_comment
+Communication - all_inbox
+Communication - alternate_email
+Communication - attach_email
+Communication - attribution
+Communication - auto_read_pause
+Communication - auto_read_play
+Communication - business_messages
+Communication - calendar_add_on
+Communication - calendar_apps_script
+Communication - call
+Communication - call_end
+Communication - call_log
+Communication - call_made
+Communication - call_merge
+Communication - call_missed
+Communication - call_missed_outgoing
+Communication - call_quality
+Communication - call_received
+Communication - call_split
+Communication - cancel_presentation
+Communication - cancel_schedule_send
+Communication - cell_tower
+Communication - cell_wifi
+Communication - chat
+Communication - chat_add_on
+Communication - chat_apps_script
+Communication - chat_bubble
+Communication - chat_error
+Communication - chat_paste_go
+Communication - co_present
+Communication - comment
+Communication - comment_bank
+Communication - comments_disabled
+Communication - contact_emergency
+Communication - contact_mail
+Communication - contact_phone
+Communication - contact_support
+Communication - contacts
+Communication - dialer_sip
+Communication - dialpad
+Communication - drafts
+Communication - duo
+Communication - e911_avatar
+Communication - forum
+Communication - forward_to_inbox
+Communication - g_translate
+Communication - hourglass_bottom
+Communication - hourglass_top
+Communication - hub
+Communication - import_contacts
+Communication - inbox
+Communication - inbox_customize
+Communication - inventory_2
+Communication - lan
+Communication - link
+Communication - link_off
+Communication - live_help
+Communication - mail
+Communication - mail_lock
+Communication - mark_as_unread
+Communication - mark_chat_read
+Communication - mark_chat_unread
+Communication - mark_email_read
+Communication - mark_email_unread
+Communication - mark_unread_chat_alt
+Communication - markunread_mailbox
+Communication - mms
+Communication - mode_comment
+Communication - move_to_inbox
+Communication - nat
+Communication - network_intelligence_history
+Communication - network_intelligence_update
+Communication - network_manage
+Communication - next_plan
+Communication - notification_multiple
+Communication - notifications
+Communication - notifications_active
+Communication - notifications_off
+Communication - notifications_paused
+Communication - ods
+Communication - odt
+Communication - outbox
+Communication - outbox_alt
+Communication - outgoing_mail
+Communication - pause_presentation
+Communication - perm_phone_msg
+Communication - person_search
+Communication - phone_bluetooth_speaker
+Communication - phone_callback
+Communication - phone_disabled
+Communication - phone_enabled
+Communication - phone_forwarded
+Communication - phone_in_talk
+Communication - phone_locked
+Communication - phone_missed
+Communication - phone_paused
+Communication - phonelink_erase
+Communication - phonelink_lock
+Communication - phonelink_ring
+Communication - phonelink_ring_off
+Communication - picture_in_picture
+Communication - picture_in_picture_alt
+Communication - picture_in_picture_center
+Communication - picture_in_picture_large
+Communication - picture_in_picture_medium
+Communication - picture_in_picture_small
+Communication - play_for_work
+Communication - power_settings_new
+Communication - present_to_all
+Communication - quickreply
+Communication - reviews
+Communication - ring_volume
+Communication - rtt
+Communication - satellite_alt
+Communication - schedule_send
+Communication - score
+Communication - send
+Communication - send_and_archive
+Communication - settings_bluetooth
+Communication - settings_phone
+Communication - signal_cellular_add
+Communication - sip
+Communication - sms
+Communication - speaker_notes
+Communication - speaker_notes_off
+Communication - speaker_phone
+Communication - spoke
+Communication - stacked_email
+Communication - stacked_inbox
+Communication - swap_calls
+Communication - tooltip
+Communication - topic
+Communication - unarchive
+Communication - unsubscribe
+Communication - upcoming
+Communication - video_chat
+Communication - voice_chat
+Communication - voicemail
+Communication - wifi_add
+Communication - wifi_calling
+Communication - wifi_channel
+Communication - wifi_proxy
+Hardware - add_to_home_screen
+Hardware - adf_scanner
+Hardware - aod
+Hardware - aod_tablet
+Hardware - aod_watch
+Hardware - app_blocking
+Hardware - app_promo
+Hardware - audio_video_receiver
+Hardware - balance
+Hardware - book_online
+Hardware - browser_updated
+Hardware - camera_video
+Hardware - cast
+Hardware - cast_connected
+Hardware - cast_for_education
+Hardware - cast_pause
+Hardware - cast_warning
+Hardware - charging_station
+Hardware - chromecast_device
+Hardware - computer
+Hardware - connected_tv
+Hardware - deskphone
+Hardware - desktop_access_disabled
+Hardware - desktop_mac
+Hardware - desktop_windows
+Hardware - developer_board
+Hardware - developer_board_off
+Hardware - developer_mode
+Hardware - developer_mode_tv
+Hardware - device_hub
+Hardware - device_thermostat
+Hardware - device_unknown
+Hardware - devices
+Hardware - devices_off
+Hardware - devices_other
+Hardware - devices_wearables
+Hardware - disc_full
+Hardware - display_settings
+Hardware - dns
+Hardware - dock
+Hardware - earbuds
+Hardware - earbuds_battery
+Hardware - ecg
+Hardware - fax
+Hardware - gamepad
+Hardware - hard_drive
+Hardware - hard_drive_2
+Hardware - headphones
+Hardware - headphones_battery
+Hardware - headset_mic
+Hardware - headset_off
+Hardware - home_max
+Hardware - home_mini
+Hardware - important_devices
+Hardware - jamboard_kiosk
+Hardware - joystick
+Hardware - keyboard
+Hardware - keyboard_alt
+Hardware - keyboard_arrow_down
+Hardware - keyboard_arrow_left
+Hardware - keyboard_arrow_right
+Hardware - keyboard_arrow_up
+Hardware - keyboard_backspace
+Hardware - keyboard_capslock
+Hardware - keyboard_hide
+Hardware - keyboard_return
+Hardware - keyboard_tab
+Hardware - keyboard_tab_rtl
+Hardware - laptop_chromebook
+Hardware - laptop_mac
+Hardware - laptop_windows
+Hardware - lda
+Hardware - lift_to_talk
+Hardware - live_tv
+Hardware - memory
+Hardware - memory_alt
+Hardware - merge
+Hardware - mimo
+Hardware - mimo_disconnect
+Hardware - mobile_friendly
+Hardware - mobile_off
+Hardware - mobile_screen_share
+Hardware - monitor
+Hardware - monitor_weight
+Hardware - mouse
+Hardware - night_sight_max
+Hardware - no_sim
+Hardware - offline_share
+Hardware - open_in_phone
+Hardware - open_jam
+Hardware - pacemaker
+Hardware - perm_device_information
+Hardware - phone_android
+Hardware - phone_iphone
+Hardware - phonelink_off
+Hardware - phonelink_setup
+Hardware - point_of_sale
+Hardware - power
+Hardware - power_input
+Hardware - power_off
+Hardware - print
+Hardware - print_add
+Hardware - print_connect
+Hardware - print_disabled
+Hardware - print_error
+Hardware - print_lock
+Hardware - punch_clock
+Hardware - ramp_left
+Hardware - ramp_right
+Hardware - rear_camera
+Hardware - remember_me
+Hardware - reset_tv
+Hardware - reset_wrench
+Hardware - robot
+Hardware - robot_2
+Hardware - roundabout_left
+Hardware - roundabout_right
+Hardware - route
+Hardware - router
+Hardware - save
+Hardware - scale
+Hardware - scanner
+Hardware - screen_lock_landscape
+Hardware - screen_lock_portrait
+Hardware - screen_lock_rotation
+Hardware - screen_rotation
+Hardware - screen_search_desktop
+Hardware - screen_share
+Hardware - screenshot
+Hardware - screenshot_monitor
+Hardware - screenshot_tablet
+Hardware - sd_card
+Hardware - sd_card_alert
+Hardware - security_update_good
+Hardware - security_update_warning
+Hardware - send_to_mobile
+Hardware - settings_cell
+Hardware - settings_ethernet
+Hardware - settings_input_antenna
+Hardware - settings_input_component
+Hardware - settings_input_hdmi
+Hardware - settings_input_svideo
+Hardware - settings_remote
+Hardware - settop_component
+Hardware - sim_card
+Hardware - smart_display
+Hardware - smart_screen
+Hardware - smart_toy
+Hardware - smartphone
+Hardware - speaker
+Hardware - speaker_group
+Hardware - stay_current_landscape
+Hardware - stay_current_portrait
+Hardware - stay_primary_landscape
+Hardware - stay_primary_portrait
+Hardware - stop_screen_share
+Hardware - straight
+Hardware - stream_apps
+Hardware - system_update
+Hardware - tablet
+Hardware - tablet_android
+Hardware - tablet_mac
+Hardware - tap_and_play
+Hardware - touchpad_mouse
+Hardware - tty
+Hardware - tv
+Hardware - tv_guide
+Hardware - tv_off
+Hardware - tv_options_edit_channels
+Hardware - tv_remote
+Hardware - tv_signin
+Hardware - ventilator
+Hardware - vibration
+Hardware - videogame_asset
+Hardware - videogame_asset_off
+Hardware - watch
+Hardware - watch_button_press
+Hardware - watch_off
+Hardware - watch_wake
+Home - activity_zone
+Home - airwave
+Home - aq
+Home - aq_indoor
+Home - arming_countdown
+Home - arrows_more_down
+Home - arrows_more_up
+Home - assistant_on_hub
+Home - battery_horiz_000
+Home - battery_horiz_050
+Home - battery_horiz_075
+Home - battery_profile
+Home - chromecast_2
+Home - cleaning_bucket
+Home - climate_mini_split
+Home - cool_to_dry
+Home - detection_and_zone
+Home - detector
+Home - detector_alarm
+Home - detector_battery
+Home - detector_co
+Home - detector_offline
+Home - detector_status
+Home - device_reset
+Home - door_open
+Home - door_sensor
+Home - doorbell_chime
+Home - early_on
+Home - ev_charger
+Home - familiar_face_and_zone
+Home - farsight_digital
+Home - floor_lamp
+Home - google_tv_remote
+Home - google_wifi
+Home - heat
+Home - heat_pump_balance
+Home - home_max_dots
+Home - home_speaker
+Home - home_storage
+Home - house_with_shield
+Home - humidity_indoor
+Home - laundry
+Home - light_group
+Home - mfg_nest_yale_lock
+Home - mode_dual
+Home - motion_sensor_active
+Home - motion_sensor_alert
+Home - motion_sensor_idle
+Home - motion_sensor_urgent
+Home - nest_audio
+Home - nest_cam_floodlight
+Home - nest_cam_indoor
+Home - nest_cam_iq
+Home - nest_cam_iq_outdoor
+Home - nest_cam_magnet_mount
+Home - nest_cam_outdoor
+Home - nest_cam_stand
+Home - nest_cam_wall_mount
+Home - nest_cam_wired_stand
+Home - nest_clock_farsight_analog
+Home - nest_clock_farsight_digital
+Home - nest_connect
+Home - nest_detect
+Home - nest_display
+Home - nest_display_max
+Home - nest_doorbell_visitor
+Home - nest_eco_leaf
+Home - nest_farsight_weather
+Home - nest_found_savings
+Home - nest_heat_link_e
+Home - nest_heat_link_gen_3
+Home - nest_hello_doorbell
+Home - nest_mini
+Home - nest_multi_room
+Home - nest_protect
+Home - nest_remote
+Home - nest_remote_comfort_sensor
+Home - nest_secure_alarm
+Home - nest_sunblock
+Home - nest_tag
+Home - nest_thermostat
+Home - nest_thermostat_e_eu
+Home - nest_thermostat_gen_3
+Home - nest_thermostat_sensor
+Home - nest_thermostat_sensor_eu
+Home - nest_thermostat_zirconium_eu
+Home - nest_true_radiant
+Home - nest_wake_on_approach
+Home - nest_wake_on_press
+Home - nest_wifi_point
+Home - nest_wifi_pro
+Home - nest_wifi_pro_2
+Home - nest_wifi_router
+Home - productivity
+Home - quiet_time
+Home - quiet_time_active
+Home - self_care
+Home - sensors_krx
+Home - settings_alert
+Home - shield_with_heart
+Home - shield_with_house
+Home - stadia_controller
+Home - table_lamp
+Home - tamper_detection_on
+Home - temp_preferences_eco
+Home - tools_flat_head
+Home - tools_installation_kit
+Home - tools_ladder
+Home - tools_level
+Home - tools_phillips
+Home - tools_pliers_wire_stripper
+Home - tools_power_drill
+Home - wall_lamp
+Home - water_pump
+Home - weather_snowy
+Home - window_closed
+Home - window_open
+Home - window_sensor
+Home - zone_person_alert
+Home - zone_person_idle
+Home - zone_person_urgent
+Household - ac_unit
+Household - air_freshener
+Household - air_purifier_gen
+Household - airware
+Household - back_hand
+Household - balcony
+Household - bathroom
+Household - bathtub
+Household - bed
+Household - bedroom_baby
+Household - bedroom_child
+Household - bedroom_parent
+Household - blanket
+Household - blender
+Household - blinds
+Household - blinds_closed
+Household - camera_indoor
+Household - camera_outdoor
+Household - chair
+Household - chair_alt
+Household - checkroom
+Household - child_care
+Household - coffee
+Household - coffee_maker
+Household - controller_gen
+Household - cooking
+Household - countertops
+Household - crib
+Household - curtains
+Household - curtains_closed
+Household - deck
+Household - desk
+Household - detector_smoke
+Household - dining
+Household - dishwasher_gen
+Household - door_back
+Household - door_front
+Household - door_sliding
+Household - doorbell
+Household - doorbell_3p
+Household - dresser
+Household - dry
+Household - electric_bolt
+Household - electric_meter
+Household - emergency_heat
+Household - emergency_home
+Household - emergency_recording
+Household - emergency_share
+Household - emergency_share_off
+Household - energy_program_saving
+Household - energy_program_time_used
+Household - energy_savings_leaf
+Household - event_seat
+Household - faucet
+Household - fence
+Household - fire_extinguisher
+Household - fireplace
+Household - flatware
+Household - foundation
+Household - garage
+Household - garage_home
+Household - gas_meter
+Household - gate
+Household - grass
+Household - hallway
+Household - hardware
+Household - heat_pump
+Household - highlight
+Household - home_iot_device
+Household - hot_tub
+Household - house
+Household - house_siding
+Household - humidity_high
+Household - humidity_low
+Household - humidity_mid
+Household - hvac
+Household - in_home_mode
+Household - iron
+Household - kettle
+Household - king_bed
+Household - kitchen
+Household - light
+Household - living
+Household - matter
+Household - microwave
+Household - microwave_gen
+Household - mode_cool
+Household - mode_cool_off
+Household - mode_fan
+Household - mode_fan_off
+Household - mode_heat
+Household - mode_heat_cool
+Household - mode_heat_off
+Household - mode_night
+Household - mode_off_on
+Household - mop
+Household - multicooker
+Household - outdoor_grill
+Household - outlet
+Household - oven_gen
+Household - propane
+Household - propane_tank
+Household - range_hood
+Household - remote_gen
+Household - roller_shades
+Household - roller_shades_closed
+Household - roofing
+Household - scene
+Household - sensor_door
+Household - sensor_occupied
+Household - sensor_window
+Household - sensors
+Household - sensors_off
+Household - shelves
+Household - shield_moon
+Household - shower
+Household - single_bed
+Household - skillet
+Household - skillet_cooktop
+Household - smart_outlet
+Household - soap
+Household - sprinkler
+Household - stockpot
+Household - stroller
+Household - styler
+Household - switch
+Household - table_bar
+Household - table_restaurant
+Household - tamper_detection_off
+Household - thermometer
+Household - thermometer_add
+Household - thermometer_gain
+Household - thermometer_loss
+Household - thermometer_minus
+Household - thermostat_auto
+Household - thermostat_carbon
+Household - tv_gen
+Household - tv_with_assistant
+Household - umbrella
+Household - valve
+Household - vertical_shades
+Household - vertical_shades_closed
+Household - wall_art
+Household - wash
+Household - water_damage
+Household - water_heater
+Household - weekend
+Household - window
+Household - yard
+Maps - 360
+Maps - add_home
+Maps - add_home_work
+Maps - add_location
+Maps - add_location_alt
+Maps - add_road
+Maps - airline_stops
+Maps - alt_route
+Maps - assist_walker
+Maps - baby_changing_station
+Maps - beenhere
+Maps - business_center
+Maps - castle
+Maps - church
+Maps - cleaning_services
+Maps - compass_calibration
+Maps - connecting_airports
+Maps - crisis_alert
+Maps - directions
+Maps - directions_alt
+Maps - directions_alt_off
+Maps - directions_off
+Maps - dry_cleaning
+Maps - east
+Maps - edit_attributes
+Maps - edit_location
+Maps - edit_location_alt
+Maps - edit_road
+Maps - electrical_services
+Maps - emergency
+Maps - ev_station
+Maps - explore
+Maps - explore_off
+Maps - factory
+Maps - fastfood
+Maps - fire_hydrant
+Maps - fire_truck
+Maps - flag
+Maps - flag_circle
+Maps - flight_class
+Maps - fmd_bad
+Maps - fort
+Maps - handyman
+Maps - home_pin
+Maps - home_repair_service
+Maps - home_work
+Maps - kebab_dining
+Maps - layers
+Maps - layers_clear
+Maps - local_activity
+Maps - local_atm
+Maps - local_car_wash
+Maps - local_convenience_store
+Maps - local_drink
+Maps - local_fire_department
+Maps - local_florist
+Maps - local_gas_station
+Maps - local_hospital
+Maps - local_laundry_service
+Maps - local_library
+Maps - local_mall
+Maps - local_parking
+Maps - local_pharmacy
+Maps - local_pizza
+Maps - local_police
+Maps - local_post_office
+Maps - local_see
+Maps - location_away
+Maps - location_disabled
+Maps - location_home
+Maps - location_off
+Maps - location_on
+Maps - location_searching
+Maps - map
+Maps - maps_ugc
+Maps - medical_services
+Maps - minor_crash
+Maps - mode_of_travel
+Maps - mosque
+Maps - move
+Maps - move_location
+Maps - moved_location
+Maps - moving
+Maps - moving_ministry
+Maps - multiple_stop
+Maps - my_location
+Maps - navigation
+Maps - near_me
+Maps - near_me_disabled
+Maps - no_meals
+Maps - north
+Maps - north_east
+Maps - north_west
+Maps - not_listed_location
+Maps - package
+Maps - package_2
+Maps - park
+Maps - pergola
+Maps - person_pin
+Maps - person_pin_circle
+Maps - pest_control
+Maps - pest_control_rodent
+Maps - pet_supplies
+Maps - pin_drop
+Maps - plumbing
+Maps - remove_road
+Maps - restaurant
+Maps - restaurant_menu
+Maps - run_circle
+Maps - safety_check
+Maps - safety_check_off
+Maps - satellite
+Maps - set_meal
+Maps - share_location
+Maps - signpost
+Maps - sos
+Maps - soup_kitchen
+Maps - south
+Maps - south_east
+Maps - south_west
+Maps - stadium
+Maps - streetview
+Maps - synagogue
+Maps - takeout_dining
+Maps - temple_buddhist
+Maps - temple_hindu
+Maps - theater_comedy
+Maps - tour
+Maps - traffic
+Maps - transfer_within_a_station
+Maps - transit_enterexit
+Maps - trip_origin
+Maps - warehouse
+Maps - west
+Maps - where_to_vote
+Maps - wine_bar
+Maps - wrong_location
+Maps - zoom_in_map
+Maps - zoom_out_map
+Photo & Image - 10mp
+Photo & Image - 11mp
+Photo & Image - 12mp
+Photo & Image - 13mp
+Photo & Image - 14mp
+Photo & Image - 15mp
+Photo & Image - 16mp
+Photo & Image - 17mp
+Photo & Image - 18mp
+Photo & Image - 19mp
+Photo & Image - 20mp
+Photo & Image - 21mp
+Photo & Image - 22mp
+Photo & Image - 23mp
+Photo & Image - 24mp
+Photo & Image - 2mp
+Photo & Image - 30fps_select
+Photo & Image - 3mp
+Photo & Image - 4mp
+Photo & Image - 50mp
+Photo & Image - 5mp
+Photo & Image - 60fps_select
+Photo & Image - 6mp
+Photo & Image - 7mp
+Photo & Image - 8mp
+Photo & Image - 9mp
+Photo & Image - add_a_photo
+Photo & Image - add_photo_alternate
+Photo & Image - add_to_photos
+Photo & Image - adjust
+Photo & Image - animation
+Photo & Image - aspect_ratio
+Photo & Image - auto_awesome_mosaic
+Photo & Image - auto_awesome_motion
+Photo & Image - auto_stories
+Photo & Image - autofps_select
+Photo & Image - background_dot_large
+Photo & Image - background_grid_small
+Photo & Image - blur_circular
+Photo & Image - blur_linear
+Photo & Image - blur_medium
+Photo & Image - blur_off
+Photo & Image - blur_on
+Photo & Image - blur_short
+Photo & Image - brightness_1
+Photo & Image - brightness_2
+Photo & Image - brightness_3
+Photo & Image - brightness_4
+Photo & Image - brightness_5
+Photo & Image - brightness_6
+Photo & Image - brightness_7
+Photo & Image - broken_image
+Photo & Image - brush
+Photo & Image - burst_mode
+Photo & Image - camera
+Photo & Image - camera_front
+Photo & Image - camera_rear
+Photo & Image - camera_roll
+Photo & Image - center_focus_strong
+Photo & Image - center_focus_weak
+Photo & Image - circle
+Photo & Image - colorize
+Photo & Image - compare
+Photo & Image - contrast
+Photo & Image - contrast_rtl_off
+Photo & Image - control_point_duplicate
+Photo & Image - crop
+Photo & Image - crop_16_9
+Photo & Image - crop_3_2
+Photo & Image - crop_5_4
+Photo & Image - crop_7_5
+Photo & Image - crop_9_16
+Photo & Image - crop_free
+Photo & Image - crop_landscape
+Photo & Image - crop_portrait
+Photo & Image - crop_rotate
+Photo & Image - crop_square
+Photo & Image - deblur
+Photo & Image - dehaze
+Photo & Image - details
+Photo & Image - dirty_lens
+Photo & Image - edit
+Photo & Image - ev_shadow
+Photo & Image - ev_shadow_add
+Photo & Image - ev_shadow_minus
+Photo & Image - exposure
+Photo & Image - exposure_neg_1
+Photo & Image - exposure_neg_2
+Photo & Image - exposure_plus_1
+Photo & Image - exposure_plus_2
+Photo & Image - exposure_zero
+Photo & Image - face_retouching_off
+Photo & Image - filter
+Photo & Image - filter_1
+Photo & Image - filter_2
+Photo & Image - filter_3
+Photo & Image - filter_4
+Photo & Image - filter_5
+Photo & Image - filter_6
+Photo & Image - filter_7
+Photo & Image - filter_8
+Photo & Image - filter_9
+Photo & Image - filter_9_plus
+Photo & Image - filter_alt
+Photo & Image - filter_b_and_w
+Photo & Image - filter_center_focus
+Photo & Image - filter_drama
+Photo & Image - filter_frames
+Photo & Image - filter_hdr
+Photo & Image - filter_none
+Photo & Image - filter_tilt_shift
+Photo & Image - filter_vintage
+Photo & Image - flaky
+Photo & Image - flare
+Photo & Image - flash_auto
+Photo & Image - flash_off
+Photo & Image - flash_on
+Photo & Image - flip
+Photo & Image - flip_camera_android
+Photo & Image - flip_camera_ios
+Photo & Image - fluorescent
+Photo & Image - gallery_thumbnail
+Photo & Image - gif
+Photo & Image - gif_box
+Photo & Image - gradient
+Photo & Image - grain
+Photo & Image - grid_off
+Photo & Image - grid_on
+Photo & Image - hdr_auto
+Photo & Image - hdr_auto_select
+Photo & Image - hdr_enhanced_select
+Photo & Image - hdr_off
+Photo & Image - hdr_off_select
+Photo & Image - hdr_on
+Photo & Image - hdr_on_select
+Photo & Image - hdr_plus
+Photo & Image - hdr_strong
+Photo & Image - hdr_weak
+Photo & Image - healing
+Photo & Image - hevc
+Photo & Image - hide_image
+Photo & Image - high_density
+Photo & Image - high_res
+Photo & Image - image
+Photo & Image - image_aspect_ratio
+Photo & Image - image_not_supported
+Photo & Image - image_search
+Photo & Image - imagesmode
+Photo & Image - incomplete_circle
+Photo & Image - invert_colors
+Photo & Image - invert_colors_off
+Photo & Image - landscape
+Photo & Image - leak_add
+Photo & Image - leak_remove
+Photo & Image - lens
+Photo & Image - lens_blur
+Photo & Image - linked_camera
+Photo & Image - looks
+Photo & Image - looks_3
+Photo & Image - looks_4
+Photo & Image - looks_5
+Photo & Image - looks_6
+Photo & Image - looks_one
+Photo & Image - looks_two
+Photo & Image - loupe
+Photo & Image - low_density
+Photo & Image - macro_auto
+Photo & Image - macro_off
+Photo & Image - masked_transitions
+Photo & Image - mic_external_off
+Photo & Image - mic_external_on
+Photo & Image - monochrome_photos
+Photo & Image - motion_blur
+Photo & Image - motion_mode
+Photo & Image - motion_photos_auto
+Photo & Image - motion_photos_off
+Photo & Image - motion_photos_on
+Photo & Image - motion_photos_paused
+Photo & Image - mp
+Photo & Image - nature
+Photo & Image - nature_people
+Photo & Image - navigate_before
+Photo & Image - navigate_next
+Photo & Image - night_sight_auto
+Photo & Image - night_sight_auto_off
+Photo & Image - no_flash
+Photo & Image - no_photography
+Photo & Image - opacity
+Photo & Image - palette
+Photo & Image - panorama
+Photo & Image - panorama_fish_eye
+Photo & Image - panorama_horizontal
+Photo & Image - panorama_photosphere
+Photo & Image - panorama_vertical
+Photo & Image - panorama_wide_angle
+Photo & Image - party_mode
+Photo & Image - perm_camera_mic
+Photo & Image - photo
+Photo & Image - photo_album
+Photo & Image - photo_camera
+Photo & Image - photo_camera_back
+Photo & Image - photo_camera_front
+Photo & Image - photo_frame
+Photo & Image - photo_library
+Photo & Image - photo_prints
+Photo & Image - photo_size_select_large
+Photo & Image - photo_size_select_small
+Photo & Image - picture_as_pdf
+Photo & Image - planner_banner_ad_pt
+Photo & Image - raw_off
+Photo & Image - raw_on
+Photo & Image - rotate_90_degrees_ccw
+Photo & Image - rotate_90_degrees_cw
+Photo & Image - rotate_left
+Photo & Image - rotate_right
+Photo & Image - settings_b_roll
+Photo & Image - settings_brightness
+Photo & Image - settings_cinematic_blur
+Photo & Image - settings_motion_mode
+Photo & Image - settings_night_sight
+Photo & Image - settings_panorama
+Photo & Image - settings_photo_camera
+Photo & Image - settings_slow_motion
+Photo & Image - settings_timelapse
+Photo & Image - settings_video_camera
+Photo & Image - shutter_speed
+Photo & Image - shutter_speed_add
+Photo & Image - shutter_speed_minus
+Photo & Image - slideshow
+Photo & Image - straighten
+Photo & Image - style
+Photo & Image - switch_camera
+Photo & Image - switch_video
+Photo & Image - texture
+Photo & Image - texture_add
+Photo & Image - texture_minus
+Photo & Image - timelapse
+Photo & Image - timer
+Photo & Image - timer_10
+Photo & Image - timer_3
+Photo & Image - timer_off
+Photo & Image - tonality
+Photo & Image - trail_length
+Photo & Image - trail_length_medium
+Photo & Image - trail_length_short
+Photo & Image - transform
+Photo & Image - tune
+Photo & Image - unknown_2
+Photo & Image - view_comfy
+Photo & Image - view_compact
+Photo & Image - vignette
+Photo & Image - vr180_create2d
+Photo & Image - vr180_create2d_off
+Photo & Image - vrpano
+Photo & Image - wb_auto
+Photo & Image - wb_incandescent
+Photo & Image - wb_iridescent
+Photo & Image - wb_shade
+Photo & Image - wb_sunny
+Photo & Image - wb_twilight
+Photo & Image - web_stories
+Privacy & Security - add_moderator
+Privacy & Security - admin_panel_settings
+Privacy & Security - assured_workload
+Privacy & Security - badge
+Privacy & Security - disabled_visible
+Privacy & Security - e911_emergency
+Privacy & Security - encrypted
+Privacy & Security - enhanced_encryption
+Privacy & Security - exclamation
+Privacy & Security - key_visualizer
+Privacy & Security - no_encryption
+Privacy & Security - passkey
+Privacy & Security - policy
+Privacy & Security - privacy_tip
+Privacy & Security - private_connectivity
+Privacy & Security - remove_moderator
+Privacy & Security - report
+Privacy & Security - report_off
+Privacy & Security - security
+Privacy & Security - shield
+Privacy & Security - shield_lock
+Privacy & Security - shield_locked
+Privacy & Security - shield_person
+Privacy & Security - sync_lock
+Privacy & Security - verified_user
+Privacy & Security - vpn_key
+Privacy & Security - vpn_key_alert
+Privacy & Security - vpn_key_off
+Privacy & Security - vpn_lock
+Privacy & Security - wifi_password
+Social - 18_up_rating
+Social - 6_ft_apart
+Social - add_reaction
+Social - admin_meds
+Social - agender
+Social - allergies
+Social - allergy
+Social - altitude
+Social - barefoot
+Social - bedtime
+Social - bedtime_off
+Social - blind
+Social - blood_pressure
+Social - bloodtype
+Social - body_fat
+Social - body_system
+Social - bomb
+Social - boy
+Social - breastfeeding
+Social - bring_your_own_ip
+Social - candle
+Social - cardiology
+Social - cheer
+Social - chess
+Social - clean_hands
+Social - clear_day
+Social - clear_night
+Social - clinical_notes
+Social - cloudy_snowing
+Social - co2
+Social - cognition
+Social - comic_bubble
+Social - communication
+Social - communities
+Social - compost
+Social - conditions
+Social - congenital
+Social - connect_without_contact
+Social - cookie
+Social - cookie_off
+Social - coronavirus
+Social - crossword
+Social - crowdsource
+Social - cruelty_free
+Social - cyclone
+Social - deceased
+Social - demography
+Social - dentistry
+Social - dermatology
+Social - destruction
+Social - dew_point
+Social - diamond
+Social - diversity_1
+Social - diversity_2
+Social - diversity_3
+Social - diversity_4
+Social - domino_mask
+Social - earthquake
+Social - eco
+Social - egg
+Social - egg_alt
+Social - elderly
+Social - elderly_woman
+Social - emoji_events
+Social - emoji_flags
+Social - emoji_food_beverage
+Social - emoji_nature
+Social - emoji_objects
+Social - emoji_people
+Social - emoji_symbols
+Social - emoji_transportation
+Social - emoticon
+Social - endocrinology
+Social - ent
+Social - explosion
+Social - eyeglasses
+Social - face
+Social - face_2
+Social - face_3
+Social - face_4
+Social - face_5
+Social - face_6
+Social - falling
+Social - female
+Social - femur
+Social - femur_alt
+Social - flood
+Social - fluid
+Social - fluid_balance
+Social - fluid_med
+Social - foggy
+Social - folded_hands
+Social - follow_the_signs
+Social - foot_bones
+Social - footprint
+Social - forest
+Social - front_hand
+Social - garden_cart
+Social - gastroenterology
+Social - gavel
+Social - genetics
+Social - girl
+Social - globe
+Social - globe_asia
+Social - globe_uk
+Social - glucose
+Social - group
+Social - group_add
+Social - group_off
+Social - group_remove
+Social - group_work
+Social - groups
+Social - groups_2
+Social - groups_3
+Social - gynecology
+Social - hand_bones
+Social - handshake
+Social - health_and_safety
+Social - heart_broken
+Social - helicopter
+Social - hematology
+Social - hive
+Social - home_health
+Social - humerus
+Social - humerus_alt
+Social - humidity_percentage
+Social - immunology
+Social - infrared
+Social - inpatient
+Social - lab_panel
+Social - lab_research
+Social - labs
+Social - landslide
+Social - male
+Social - man
+Social - man_2
+Social - man_3
+Social - man_4
+Social - manga
+Social - masks
+Social - medical_information
+Social - medical_mask
+Social - medication
+Social - medication_liquid
+Social - metabolism
+Social - microbiology
+Social - military_tech
+Social - mist
+Social - mixture_med
+Social - monitor_heart
+Social - mood
+Social - mood_bad
+Social - mountain_flag
+Social - moving_beds
+Social - mystery
+Social - nephrology
+Social - neurology
+Social - no_adult_content
+Social - not_accessible
+Social - not_accessible_forward
+Social - nutrition
+Social - oil_barrel
+Social - oncology
+Social - ophthalmology
+Social - oral_disease
+Social - orthopedics
+Social - outdoor_garden
+Social - outpatient
+Social - outpatient_med
+Social - oxygen_saturation
+Social - partly_cloudy_day
+Social - partly_cloudy_night
+Social - partner_exchange
+Social - pediatrics
+Social - person
+Social - person_2
+Social - person_3
+Social - person_4
+Social - person_add
+Social - person_alert
+Social - person_apron
+Social - person_cancel
+Social - person_check
+Social - person_off
+Social - person_raised_hand
+Social - person_remove
+Social - pets
+Social - pill
+Social - pill_off
+Social - playing_cards
+Social - potted_plant
+Social - prayer_times
+Social - pregnancy
+Social - pregnant_woman
+Social - prescriptions
+Social - procedure
+Social - psychiatry
+Social - psychology
+Social - psychology_alt
+Social - public
+Social - public_off
+Social - pulmonology
+Social - quiz
+Social - radiology
+Social - rainy
+Social - rainy_heavy
+Social - rainy_light
+Social - rainy_snow
+Social - raven
+Social - recent_patient
+Social - recommend
+Social - recycling
+Social - reduce_capacity
+Social - respiratory_rate
+Social - rheumatology
+Social - rib_cage
+Social - rocket
+Social - rocket_launch
+Social - routine
+Social - safety_divider
+Social - salinity
+Social - sanitizer
+Social - sentiment_calm
+Social - sentiment_content
+Social - sentiment_dissatisfied
+Social - sentiment_excited
+Social - sentiment_extremely_dissatisfied
+Social - sentiment_frustrated
+Social - sentiment_neutral
+Social - sentiment_sad
+Social - sentiment_satisfied
+Social - sentiment_stressed
+Social - sentiment_very_dissatisfied
+Social - sentiment_very_satisfied
+Social - sentiment_worried
+Social - severe_cold
+Social - share
+Social - share_off
+Social - short_stay
+Social - sick
+Social - sign_language
+Social - skeleton
+Social - skull
+Social - snowing
+Social - snowing_heavy
+Social - social_distance
+Social - social_leaderboard
+Social - solar_power
+Social - south_america
+Social - specific_gravity
+Social - stethoscope
+Social - stethoscope_arrow
+Social - stethoscope_check
+Social - strategy
+Social - sunny
+Social - sunny_snowing
+Social - support_agent
+Social - surgical
+Social - sword_rose
+Social - symptoms
+Social - syringe
+Social - tactic
+Social - taunt
+Social - thumb_down
+Social - thumb_up
+Social - thumbs_up_down
+Social - thunderstorm
+Social - tibia
+Social - tibia_alt
+Social - tornado
+Social - total_dissolved_solids
+Social - transgender
+Social - travel_explore
+Social - tsunami
+Social - ulna_radius
+Social - ulna_radius_alt
+Social - urology
+Social - vaccines
+Social - vape_free
+Social - vaping_rooms
+Social - vital_signs
+Social - volcano
+Social - ward
+Social - water_bottle
+Social - water_bottle_large
+Social - water_do
+Social - water_drop
+Social - water_ec
+Social - water_lux
+Social - water_orp
+Social - water_ph
+Social - water_voc
+Social - waving_hand
+Social - wc
+Social - weather_hail
+Social - weather_mix
+Social - weight
+Social - whatshot
+Social - wind_power
+Social - woman
+Social - woman_2
+Social - workspace_premium
+Social - workspaces
+Social - wounds_injuries
+Social - wrist
+Text Formatting - add_link
+Text Formatting - add_notes
+Text Formatting - add_to_drive
+Text Formatting - align_center
+Text Formatting - align_end
+Text Formatting - align_flex_center
+Text Formatting - align_flex_end
+Text Formatting - align_flex_start
+Text Formatting - align_horizontal_center
+Text Formatting - align_horizontal_left
+Text Formatting - align_horizontal_right
+Text Formatting - align_items_stretch
+Text Formatting - align_justify_center
+Text Formatting - align_justify_flex_end
+Text Formatting - align_justify_flex_start
+Text Formatting - align_justify_space_around
+Text Formatting - align_justify_space_between
+Text Formatting - align_justify_space_even
+Text Formatting - align_justify_stretch
+Text Formatting - align_self_stretch
+Text Formatting - align_space_around
+Text Formatting - align_space_between
+Text Formatting - align_space_even
+Text Formatting - align_start
+Text Formatting - align_stretch
+Text Formatting - align_vertical_bottom
+Text Formatting - align_vertical_center
+Text Formatting - align_vertical_top
+Text Formatting - amp_stories
+Text Formatting - archive
+Text Formatting - article
+Text Formatting - article_shortcut
+Text Formatting - assignment
+Text Formatting - assignment_add
+Text Formatting - assignment_ind
+Text Formatting - assignment_late
+Text Formatting - assignment_return
+Text Formatting - assignment_returned
+Text Formatting - assignment_turned_in
+Text Formatting - attach_file
+Text Formatting - attach_file_add
+Text Formatting - attachment
+Text Formatting - ballot
+Text Formatting - book
+Text Formatting - book_2
+Text Formatting - book_3
+Text Formatting - book_4
+Text Formatting - book_5
+Text Formatting - border_all
+Text Formatting - border_bottom
+Text Formatting - border_clear
+Text Formatting - border_color
+Text Formatting - border_horizontal
+Text Formatting - border_inner
+Text Formatting - border_left
+Text Formatting - border_outer
+Text Formatting - border_right
+Text Formatting - border_style
+Text Formatting - border_top
+Text Formatting - border_vertical
+Text Formatting - breaking_news
+Text Formatting - breaking_news_alt_1
+Text Formatting - business_chip
+Text Formatting - calendar_view_day
+Text Formatting - calendar_view_month
+Text Formatting - calendar_view_week
+Text Formatting - cell_merge
+Text Formatting - checklist
+Text Formatting - checklist_rtl
+Text Formatting - clarify
+Text Formatting - cloud
+Text Formatting - cloud_circle
+Text Formatting - cloud_done
+Text Formatting - cloud_download
+Text Formatting - cloud_off
+Text Formatting - cloud_sync
+Text Formatting - cloud_upload
+Text Formatting - colors
+Text Formatting - contact_page
+Text Formatting - content_copy
+Text Formatting - content_cut
+Text Formatting - content_paste
+Text Formatting - content_paste_go
+Text Formatting - content_paste_off
+Text Formatting - content_paste_search
+Text Formatting - contract
+Text Formatting - contract_delete
+Text Formatting - contract_edit
+Text Formatting - copy_all
+Text Formatting - counter_0
+Text Formatting - counter_1
+Text Formatting - counter_2
+Text Formatting - counter_3
+Text Formatting - counter_4
+Text Formatting - counter_5
+Text Formatting - counter_6
+Text Formatting - counter_7
+Text Formatting - counter_8
+Text Formatting - counter_9
+Text Formatting - csv
+Text Formatting - custom_typography
+Text Formatting - cut
+Text Formatting - dashboard
+Text Formatting - dashboard_customize
+Text Formatting - data_array
+Text Formatting - data_object
+Text Formatting - decimal_decrease
+Text Formatting - decimal_increase
+Text Formatting - description
+Text Formatting - deselect
+Text Formatting - design_services
+Text Formatting - diagnosis
+Text Formatting - dictionary
+Text Formatting - difference
+Text Formatting - docs_add_on
+Text Formatting - docs_apps_script
+Text Formatting - document_scanner
+Text Formatting - draft
+Text Formatting - drag_handle
+Text Formatting - draw
+Text Formatting - draw_abstract
+Text Formatting - draw_collage
+Text Formatting - drive_file_move
+Text Formatting - drive_folder_upload
+Text Formatting - edit_document
+Text Formatting - edit_note
+Text Formatting - edit_off
+Text Formatting - equal
+Text Formatting - export_notes
+Text Formatting - fact_check
+Text Formatting - feed
+Text Formatting - file_copy
+Text Formatting - file_present
+Text Formatting - finance_chip
+Text Formatting - find_in_page
+Text Formatting - fit_page
+Text Formatting - fit_width
+Text Formatting - flex_direction
+Text Formatting - flex_no_wrap
+Text Formatting - flex_wrap
+Text Formatting - flip_to_back
+Text Formatting - flip_to_front
+Text Formatting - folder
+Text Formatting - folder_copy
+Text Formatting - folder_data
+Text Formatting - folder_delete
+Text Formatting - folder_managed
+Text Formatting - folder_off
+Text Formatting - folder_open
+Text Formatting - folder_shared
+Text Formatting - folder_special
+Text Formatting - folder_supervised
+Text Formatting - folder_zip
+Text Formatting - font_download
+Text Formatting - font_download_off
+Text Formatting - format_align_center
+Text Formatting - format_align_justify
+Text Formatting - format_align_left
+Text Formatting - format_align_right
+Text Formatting - format_bold
+Text Formatting - format_clear
+Text Formatting - format_color_fill
+Text Formatting - format_color_reset
+Text Formatting - format_color_text
+Text Formatting - format_h1
+Text Formatting - format_h2
+Text Formatting - format_h3
+Text Formatting - format_h4
+Text Formatting - format_h5
+Text Formatting - format_h6
+Text Formatting - format_image_left
+Text Formatting - format_image_right
+Text Formatting - format_indent_decrease
+Text Formatting - format_indent_increase
+Text Formatting - format_ink_highlighter
+Text Formatting - format_italic
+Text Formatting - format_letter_spacing
+Text Formatting - format_letter_spacing_2
+Text Formatting - format_letter_spacing_standard
+Text Formatting - format_letter_spacing_wide
+Text Formatting - format_letter_spacing_wider
+Text Formatting - format_line_spacing
+Text Formatting - format_list_bulleted
+Text Formatting - format_list_bulleted_add
+Text Formatting - format_list_numbered
+Text Formatting - format_list_numbered_rtl
+Text Formatting - format_overline
+Text Formatting - format_paint
+Text Formatting - format_paragraph
+Text Formatting - format_quote
+Text Formatting - format_shapes
+Text Formatting - format_size
+Text Formatting - format_strikethrough
+Text Formatting - format_text_clip
+Text Formatting - format_text_overflow
+Text Formatting - format_text_wrap
+Text Formatting - format_textdirection_l_to_r
+Text Formatting - format_textdirection_r_to_l
+Text Formatting - format_underlined
+Text Formatting - format_underlined_squiggle
+Text Formatting - forms_add_on
+Text Formatting - forms_apps_script
+Text Formatting - frame_inspect
+Text Formatting - frame_reload
+Text Formatting - frame_source
+Text Formatting - full_coverage
+Text Formatting - function
+Text Formatting - functions
+Text Formatting - glyphs
+Text Formatting - grading
+Text Formatting - grid_guides
+Text Formatting - grid_view
+Text Formatting - heap_snapshot_large
+Text Formatting - heap_snapshot_multiple
+Text Formatting - heap_snapshot_thumbnail
+Text Formatting - height
+Text Formatting - hexagon
+Text Formatting - highlighter_size_1
+Text Formatting - highlighter_size_2
+Text Formatting - highlighter_size_3
+Text Formatting - highlighter_size_4
+Text Formatting - highlighter_size_5
+Text Formatting - history_edu
+Text Formatting - horizontal_distribute
+Text Formatting - horizontal_rule
+Text Formatting - horizontal_split
+Text Formatting - imagesearch_roller
+Text Formatting - ink_eraser
+Text Formatting - ink_eraser_off
+Text Formatting - ink_highlighter
+Text Formatting - ink_marker
+Text Formatting - ink_pen
+Text Formatting - insert_page_break
+Text Formatting - insert_text
+Text Formatting - integration_instructions
+Text Formatting - inventory
+Text Formatting - join
+Text Formatting - join_inner
+Text Formatting - join_left
+Text Formatting - join_right
+Text Formatting - lab_profile
+Text Formatting - language_chinese_array
+Text Formatting - language_chinese_cangjie
+Text Formatting - language_chinese_dayi
+Text Formatting - language_chinese_pinyin
+Text Formatting - language_chinese_quick
+Text Formatting - language_chinese_wubi
+Text Formatting - language_french
+Text Formatting - language_gb_english
+Text Formatting - language_international
+Text Formatting - language_korean_latin
+Text Formatting - language_pinyin
+Text Formatting - language_spanish
+Text Formatting - language_us
+Text Formatting - language_us_colemak
+Text Formatting - language_us_dvorak
+Text Formatting - lasso_select
+Text Formatting - letter_switch
+Text Formatting - line_axis
+Text Formatting - line_curve
+Text Formatting - line_end
+Text Formatting - line_end_arrow
+Text Formatting - line_end_arrow_notch
+Text Formatting - line_end_circle
+Text Formatting - line_end_diamond
+Text Formatting - line_end_square
+Text Formatting - line_start
+Text Formatting - line_start_arrow
+Text Formatting - line_start_arrow_notch
+Text Formatting - line_start_circle
+Text Formatting - line_start_diamond
+Text Formatting - line_start_square
+Text Formatting - line_style
+Text Formatting - line_weight
+Text Formatting - linear_scale
+Text Formatting - list
+Text Formatting - list_alt
+Text Formatting - list_alt_add
+Text Formatting - location_chip
+Text Formatting - low_priority
+Text Formatting - margin
+Text Formatting - markdown
+Text Formatting - markdown_copy
+Text Formatting - markdown_paste
+Text Formatting - match_case
+Text Formatting - match_word
+Text Formatting - menu_book
+Text Formatting - merge_type
+Text Formatting - news
+Text Formatting - newsmode
+Text Formatting - newspaper
+Text Formatting - note
+Text Formatting - note_add
+Text Formatting - note_alt
+Text Formatting - note_stack
+Text Formatting - note_stack_add
+Text Formatting - notes
+Text Formatting - numbers
+Text Formatting - other_admission
+Text Formatting - overview
+Text Formatting - padding
+Text Formatting - pages
+Text Formatting - pen_size_1
+Text Formatting - pen_size_2
+Text Formatting - pen_size_3
+Text Formatting - pen_size_4
+Text Formatting - pen_size_5
+Text Formatting - pending_actions
+Text Formatting - pentagon
+Text Formatting - percent
+Text Formatting - perm_media
+Text Formatting - person_book
+Text Formatting - pivot_table_chart
+Text Formatting - plagiarism
+Text Formatting - polyline
+Text Formatting - post
+Text Formatting - post_add
+Text Formatting - process_chart
+Text Formatting - read_more
+Text Formatting - rectangle
+Text Formatting - regular_expression
+Text Formatting - remove_selection
+Text Formatting - reorder
+Text Formatting - request_page
+Text Formatting - request_quote
+Text Formatting - reset_image
+Text Formatting - restore_page
+Text Formatting - rule_folder
+Text Formatting - scan
+Text Formatting - scan_delete
+Text Formatting - segment
+Text Formatting - select
+Text Formatting - shape_line
+Text Formatting - shapes
+Text Formatting - sheets_rtl
+Text Formatting - short_text
+Text Formatting - signature
+Text Formatting - slide_library
+Text Formatting - smb_share
+Text Formatting - snippet_folder
+Text Formatting - source_notes
+Text Formatting - space_bar
+Text Formatting - space_dashboard
+Text Formatting - special_character
+Text Formatting - spellcheck
+Text Formatting - square
+Text Formatting - sticky_note
+Text Formatting - sticky_note_2
+Text Formatting - stock_media
+Text Formatting - stroke_full
+Text Formatting - stroke_partial
+Text Formatting - stylus_laser_pointer
+Text Formatting - subject
+Text Formatting - subscript
+Text Formatting - subtitles_off
+Text Formatting - summarize
+Text Formatting - superscript
+Text Formatting - tab_close
+Text Formatting - tab_close_right
+Text Formatting - tab_duplicate
+Text Formatting - tab_group
+Text Formatting - tab_move
+Text Formatting - tab_new_right
+Text Formatting - tab_recent
+Text Formatting - table
+Text Formatting - table_chart
+Text Formatting - table_chart_view
+Text Formatting - table_rows
+Text Formatting - table_rows_narrow
+Text Formatting - table_view
+Text Formatting - tag
+Text Formatting - task
+Text Formatting - team_dashboard
+Text Formatting - text_ad
+Text Formatting - text_decrease
+Text Formatting - text_fields
+Text Formatting - text_format
+Text Formatting - text_increase
+Text Formatting - text_rotate_up
+Text Formatting - text_rotate_vertical
+Text Formatting - text_rotation_angledown
+Text Formatting - text_rotation_angleup
+Text Formatting - text_rotation_down
+Text Formatting - text_rotation_none
+Text Formatting - text_select_end
+Text Formatting - text_select_jump_to_beginning
+Text Formatting - text_select_jump_to_end
+Text Formatting - text_select_move_back_character
+Text Formatting - text_select_move_back_word
+Text Formatting - text_select_move_down
+Text Formatting - text_select_move_forward_character
+Text Formatting - text_select_move_forward_word
+Text Formatting - text_select_move_up
+Text Formatting - text_select_start
+Text Formatting - text_snippet
+Text Formatting - thumbnail_bar
+Text Formatting - title
+Text Formatting - toc
+Text Formatting - top_panel_close
+Text Formatting - top_panel_open
+Text Formatting - tsv
+Text Formatting - type_specimen
+Text Formatting - ungroup
+Text Formatting - unknown_document
+Text Formatting - variables
+Text Formatting - vertical_align_bottom
+Text Formatting - vertical_align_center
+Text Formatting - vertical_align_top
+Text Formatting - vertical_distribute
+Text Formatting - vertical_split
+Text Formatting - video_file
+Text Formatting - view_agenda
+Text Formatting - view_array
+Text Formatting - view_carousel
+Text Formatting - view_column
+Text Formatting - view_column_2
+Text Formatting - view_day
+Text Formatting - view_headline
+Text Formatting - view_list
+Text Formatting - view_module
+Text Formatting - view_quilt
+Text Formatting - view_sidebar
+Text Formatting - view_stream
+Text Formatting - view_week
+Text Formatting - voting_chip
+Text Formatting - width
+Text Formatting - wrap_text
+Transportation - agriculture
+Transportation - airlines
+Transportation - airport_shuttle
+Transportation - ambulance
+Transportation - auto_transmission
+Transportation - bike_scooter
+Transportation - bus_alert
+Transportation - car_crash
+Transportation - commute
+Transportation - departure_board
+Transportation - directions_bike
+Transportation - directions_boat
+Transportation - directions_bus
+Transportation - directions_car
+Transportation - directions_railway
+Transportation - directions_run
+Transportation - directions_subway
+Transportation - directions_walk
+Transportation - electric_bike
+Transportation - electric_car
+Transportation - electric_moped
+Transportation - electric_rickshaw
+Transportation - electric_scooter
+Transportation - flight
+Transportation - flight_land
+Transportation - flight_takeoff
+Transportation - flightsmode
+Transportation - fork_left
+Transportation - fork_right
+Transportation - hail
+Transportation - local_shipping
+Transportation - local_taxi
+Transportation - motorcycle
+Transportation - no_crash
+Transportation - no_transfer
+Transportation - pedal_bike
+Transportation - railway_alert
+Transportation - rv_hookup
+Transportation - sailing
+Transportation - snowmobile
+Transportation - subway
+Transportation - swap_driving_apps_wheel
+Transportation - taxi_alert
+Transportation - tire_repair
+Transportation - train
+Transportation - tram
+Transportation - transportation
+Transportation - turn_left
+Transportation - turn_right
+Transportation - turn_sharp_left
+Transportation - turn_sharp_right
+Transportation - turn_slight_left
+Transportation - turn_slight_right
+Transportation - two_wheeler
+Transportation - u_turn_left
+Transportation - u_turn_right
+Travel - airline_seat_flat
+Travel - airline_seat_flat_angled
+Travel - airline_seat_individual_suite
+Travel - airline_seat_legroom_extra
+Travel - airline_seat_legroom_normal
+Travel - airline_seat_legroom_reduced
+Travel - airline_seat_recline_extra
+Travel - airline_seat_recline_normal
+Travel - airplane_ticket
+Travel - apartment
+Travel - attractions
+Travel - bakery_dining
+Travel - beach_access
+Travel - bento
+Travel - breakfast_dining
+Travel - brunch_dining
+Travel - bungalow
+Travel - cabin
+Travel - car_rental
+Travel - car_repair
+Travel - carpenter
+Travel - casino
+Travel - chalet
+Travel - child_friendly
+Travel - concierge
+Travel - cottage
+Travel - dinner_dining
+Travel - do_not_step
+Travel - do_not_touch
+Travel - elevator
+Travel - escalator
+Travel - escalator_warning
+Travel - family_restroom
+Travel - festival
+Travel - fitness_center
+Travel - food_bank
+Travel - gite
+Travel - golf_course
+Travel - holiday_village
+Travel - hotel
+Travel - houseboat
+Travel - icecream
+Travel - liquor
+Travel - local_bar
+Travel - local_cafe
+Travel - local_dining
+Travel - location_city
+Travel - luggage
+Travel - lunch_dining
+Travel - museum
+Travel - night_shelter
+Travel - nightlife
+Travel - no_drinks
+Travel - no_food
+Travel - no_luggage
+Travel - no_stroller
+Travel - other_houses
+Travel - pool
+Travel - ramen_dining
+Travel - rice_bowl
+Travel - room_service
+Travel - smoke_free
+Travel - smoking_rooms
+Travel - spa
+Travel - sports_bar
+Travel - stairs
+Travel - tapas
+Travel - travel
+Travel - villa
+Travel - wheelchair_pickup
+Travel - your_trips
+UI actions - 123
+UI actions - abc
+UI actions - acute
+UI actions - add
+UI actions - add_box
+UI actions - add_circle
+UI actions - add_task
+UI actions - all_match
+UI actions - amend
+UI actions - app_badging
+UI actions - app_registration
+UI actions - apps
+UI actions - apps_outage
+UI actions - arrow_and_edge
+UI actions - arrow_back
+UI actions - arrow_back_ios
+UI actions - arrow_back_ios_new
+UI actions - arrow_circle_down
+UI actions - arrow_circle_left
+UI actions - arrow_circle_right
+UI actions - arrow_circle_up
+UI actions - arrow_downward
+UI actions - arrow_downward_alt
+UI actions - arrow_drop_down
+UI actions - arrow_drop_down_circle
+UI actions - arrow_drop_up
+UI actions - arrow_forward
+UI actions - arrow_forward_ios
+UI actions - arrow_insert
+UI actions - arrow_left
+UI actions - arrow_left_alt
+UI actions - arrow_or_edge
+UI actions - arrow_outward
+UI actions - arrow_range
+UI actions - arrow_right
+UI actions - arrow_right_alt
+UI actions - arrow_split
+UI actions - arrow_top_left
+UI actions - arrow_top_right
+UI actions - arrow_upward
+UI actions - arrow_upward_alt
+UI actions - arrows_outward
+UI actions - assistant_direction
+UI actions - assistant_navigation
+UI actions - autorenew
+UI actions - back_to_tab
+UI actions - backspace
+UI actions - block
+UI actions - bolt
+UI actions - bottom_app_bar
+UI actions - bottom_drawer
+UI actions - bottom_navigation
+UI actions - bottom_panel_close
+UI actions - bottom_panel_open
+UI actions - bottom_right_click
+UI actions - bottom_sheets
+UI actions - browse_activity
+UI actions - browse_gallery
+UI actions - bubble
+UI actions - bubbles
+UI actions - buttons_alt
+UI actions - cached
+UI actions - cancel
+UI actions - captive_portal
+UI actions - capture
+UI actions - cards
+UI actions - change_circle
+UI actions - check
+UI actions - check_box
+UI actions - check_box_outline_blank
+UI actions - check_circle
+UI actions - check_indeterminate_small
+UI actions - check_small
+UI actions - chevron_left
+UI actions - chevron_right
+UI actions - chip_extraction
+UI actions - chips
+UI actions - chronic
+UI actions - clear_all
+UI actions - clock_loader_10
+UI actions - clock_loader_20
+UI actions - clock_loader_40
+UI actions - clock_loader_60
+UI actions - clock_loader_80
+UI actions - clock_loader_90
+UI actions - close
+UI actions - close_fullscreen
+UI actions - collapse_all
+UI actions - compare_arrows
+UI actions - compress
+UI actions - create_new_folder
+UI actions - css
+UI actions - cycle
+UI actions - data_alert
+UI actions - data_check
+UI actions - data_info_alert
+UI actions - data_thresholding
+UI actions - dataset
+UI actions - dataset_linked
+UI actions - delete
+UI actions - delete_forever
+UI actions - delete_sweep
+UI actions - density_large
+UI actions - density_medium
+UI actions - density_small
+UI actions - deployed_code
+UI actions - deployed_code_alert
+UI actions - deployed_code_history
+UI actions - deployed_code_update
+UI actions - dialogs
+UI actions - directory_sync
+UI actions - disabled_by_default
+UI actions - do_not_disturb_off
+UI actions - do_not_disturb_on
+UI actions - done
+UI actions - done_all
+UI actions - done_outline
+UI actions - double_arrow
+UI actions - download
+UI actions - download_done
+UI actions - download_for_offline
+UI actions - downloading
+UI actions - drag_click
+UI actions - drag_indicator
+UI actions - drag_pan
+UI actions - dropdown
+UI actions - dynamic_form
+UI actions - eject
+UI actions - empty_dashboard
+UI actions - enable
+UI actions - error_med
+UI actions - event_list
+UI actions - exit_to_app
+UI actions - expand
+UI actions - expand_all
+UI actions - expand_circle_down
+UI actions - expand_circle_right
+UI actions - expand_circle_up
+UI actions - expand_content
+UI actions - expand_less
+UI actions - expand_more
+UI actions - extension_off
+UI actions - favorite
+UI actions - file_download_done
+UI actions - file_download_off
+UI actions - file_open
+UI actions - file_upload_off
+UI actions - filter_alt_off
+UI actions - filter_list
+UI actions - filter_list_off
+UI actions - first_page
+UI actions - fit_screen
+UI actions - forward
+UI actions - fullscreen
+UI actions - fullscreen_exit
+UI actions - go_to_line
+UI actions - grade
+UI actions - heart_check
+UI actions - heart_minus
+UI actions - heart_plus
+UI actions - hide
+UI actions - hide_source
+UI actions - hls
+UI actions - hls_off
+UI actions - home
+UI actions - html
+UI actions - iframe
+UI actions - iframe_off
+UI actions - indeterminate_check_box
+UI actions - input_circle
+UI actions - install_desktop
+UI actions - install_mobile
+UI actions - ios_share
+UI actions - javascript
+UI actions - jump_to_element
+UI actions - key
+UI actions - key_off
+UI actions - keyboard_command_key
+UI actions - keyboard_control_key
+UI actions - keyboard_double_arrow_down
+UI actions - keyboard_double_arrow_left
+UI actions - keyboard_double_arrow_right
+UI actions - keyboard_double_arrow_up
+UI actions - keyboard_option_key
+UI actions - keyboard_voice
+UI actions - last_page
+UI actions - left_click
+UI actions - left_panel_close
+UI actions - left_panel_open
+UI actions - library_add
+UI actions - linked_services
+UI actions - login
+UI actions - logout
+UI actions - magnification_large
+UI actions - magnification_small
+UI actions - manage_search
+UI actions - maximize
+UI actions - menu
+UI actions - menu_open
+UI actions - minimize
+UI actions - more_down
+UI actions - more_horiz
+UI actions - more_up
+UI actions - more_vert
+UI actions - move_down
+UI actions - move_group
+UI actions - move_item
+UI actions - move_selection_down
+UI actions - move_selection_left
+UI actions - move_selection_right
+UI actions - move_selection_up
+UI actions - move_up
+UI actions - new_window
+UI actions - open_in_full
+UI actions - open_in_new
+UI actions - open_in_new_down
+UI actions - open_in_new_off
+UI actions - open_with
+UI actions - output
+UI actions - output_circle
+UI actions - page_control
+UI actions - page_info
+UI actions - partner_reports
+UI actions - patient_list
+UI actions - php
+UI actions - pinch
+UI actions - pip
+UI actions - pip_exit
+UI actions - place_item
+UI actions - point_scan
+UI actions - position_bottom_left
+UI actions - position_bottom_right
+UI actions - position_top_right
+UI actions - preliminary
+UI actions - progress_activity
+UI actions - publish
+UI actions - question_exchange
+UI actions - quick_reference
+UI actions - quick_reference_all
+UI actions - radio_button_checked
+UI actions - radio_button_partial
+UI actions - radio_button_unchecked
+UI actions - rebase
+UI actions - rebase_edit
+UI actions - redo
+UI actions - refresh
+UI actions - remove
+UI actions - remove_done
+UI actions - reopen_window
+UI actions - repartition
+UI actions - reply
+UI actions - reply_all
+UI actions - resize
+UI actions - restart_alt
+UI actions - restore_from_trash
+UI actions - right_click
+UI actions - right_panel_close
+UI actions - right_panel_open
+UI actions - ripples
+UI actions - rule_settings
+UI actions - saved_search
+UI actions - search
+UI actions - search_check
+UI actions - search_off
+UI actions - select_all
+UI actions - select_check_box
+UI actions - send_time_extension
+UI actions - settings
+UI actions - settings_accessibility
+UI actions - settings_applications
+UI actions - settings_backup_restore
+UI actions - share_reviews
+UI actions - share_windows
+UI actions - shelf_auto_hide
+UI actions - shelf_position
+UI actions - shopping_cart_checkout
+UI actions - side_navigation
+UI actions - sliders
+UI actions - sort
+UI actions - sort_by_alpha
+UI actions - stack
+UI actions - stack_off
+UI actions - stack_star
+UI actions - star
+UI actions - star_half
+UI actions - star_rate
+UI actions - star_rate_half
+UI actions - start
+UI actions - stat_1
+UI actions - stat_2
+UI actions - stat_3
+UI actions - stat_minus_1
+UI actions - stat_minus_2
+UI actions - stat_minus_3
+UI actions - step
+UI actions - step_into
+UI actions - step_out
+UI actions - step_over
+UI actions - steppers
+UI actions - subdirectory_arrow_left
+UI actions - subdirectory_arrow_right
+UI actions - subheader
+UI actions - swap_horiz
+UI actions - swap_horizontal_circle
+UI actions - swap_vert
+UI actions - swap_vertical_circle
+UI actions - sweep
+UI actions - swipe_down
+UI actions - swipe_down_alt
+UI actions - swipe_left
+UI actions - swipe_left_alt
+UI actions - swipe_right
+UI actions - swipe_right_alt
+UI actions - swipe_up
+UI actions - swipe_up_alt
+UI actions - swipe_vertical
+UI actions - switch_access
+UI actions - switch_access_shortcut
+UI actions - switch_access_shortcut_add
+UI actions - switch_left
+UI actions - switch_right
+UI actions - switches
+UI actions - sync
+UI actions - sync_alt
+UI actions - sync_disabled
+UI actions - sync_problem
+UI actions - sync_saved_locally
+UI actions - system_update_alt
+UI actions - tabs
+UI actions - terminal
+UI actions - toast
+UI actions - toggle_off
+UI actions - toggle_on
+UI actions - token
+UI actions - toolbar
+UI actions - transcribe
+UI actions - undo
+UI actions - unfold_less
+UI actions - unfold_less_double
+UI actions - unfold_more
+UI actions - unfold_more_double
+UI actions - unknown_5
+UI actions - unknown_med
+UI actions - view_comfy_alt
+UI actions - view_compact_alt
+UI actions - view_cozy
+UI actions - view_kanban
+UI actions - view_timeline
+UI actions - width_full
+UI actions - width_normal
+UI actions - width_wide
+UI actions - youtube_searched_for
+UI actions - zoom_in
+UI actions - zoom_out

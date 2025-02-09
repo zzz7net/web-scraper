@@ -1,4 +1,4 @@
-# web-scraper
+# Web-scraper
 Google Icons Web-Scraping with Python Selenium
 
 Use google-icons-webscraper.ipynb script in the Jupiter Notebook\
